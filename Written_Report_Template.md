@@ -1,6 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+Our client, Louise, is attempting raise money for her play *Fever* through a kickstarter campaign. We were approached to conduct an analysis of previous kickstarter campaigns to evaluate the liklihood of her reaching her fundraising goals, and to determine factors that may influence success of her fundraising campaign. 
 
 ### Purpose
 

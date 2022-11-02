@@ -9,6 +9,7 @@
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+![](https://github.com/mzabrisk/kickstarter-analyis/blob/b685dffefca36fc6d18d47c7c6e1135311e55421/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 

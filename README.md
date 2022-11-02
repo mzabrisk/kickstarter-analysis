@@ -1,10 +1,27 @@
-# Analysis of Kickstarter Outcomes
+# Kickstarting with Excel
 
-## testing out remote README.md editing
+## Overview of Project
+Our client, Louise, is attempting raise money for her play, *Fever*, through a kickstarter campaign. We were approached to conduct an analysis of previous kickstarter campaigns to evaluate the likelihood of her reaching her fundraising goals, and to determine factors that may influence success of her fundraising campaign. 
 
-![Kickstater campaign outcomes show dependency on start date](https://github.com/mzabrisk/kickstarter-analyis/blob/8bea4f566d8b1769748378055004f220e9f0ba61/Outcomes%20Based%20on%20Launch%20Date.png)
+### Purpose
+Analyze previous kickstarter data to determine if there is a correlation with kickstarter success and campaign launch date or the goal fundraising amount.
 
-![](https://github.com/mzabrisk/kickstarter-analyis/blob/6e49d3b49d15247aedb297b9e7892dbc29ece17e/Parent%20Category%20Outcomes.png)
+## Analysis and Challenges
 
-![](https://github.com/mzabrisk/kickstarter-analyis/blob/666db4c26626557f7d9ca7c1b6f4bc96902c9d77/GB%20Musical%20Box%20and%20Whisker.png)
+### Analysis of Outcomes Based on Launch Date
+![](https://github.com/mzabrisk/kickstarter-analyis/blob/d667846cc97f8bef60c02d9c8a60cd353c1d7d55/resources/Theater_Outcomes_vs_Launch.png)
 
+### Analysis of Outcomes Based on Goals
+![](https://github.com/mzabrisk/kickstarter-analyis/blob/b685dffefca36fc6d18d47c7c6e1135311e55421/resources/Outcomes_vs_Goals.png)
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?

@@ -19,6 +19,8 @@ Analyze previous kickstarter data to determine if there is a correlation with ki
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+* When it comes to kickstarter campaings to raise money for theater isues, May appears to be the most successful month to launch a campaign, with the most successful campaings (111) and the highest success rate (67%)
+* December appears to be the worst month to launch a campaign to support theater issues, with nearly as many failed (35) campaigns as successful (37) campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
 

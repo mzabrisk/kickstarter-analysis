@@ -16,27 +16,31 @@ Analyze previous kickstarter data to determine if there is a correlation with ki
 
 ### Challenges and Difficulties Encountered
 
+Overall, the dataset was very well organized and required very little cleaning. However, if it hadn't been covered in class, identifying the Unix Timestamps in the "deadline" and "launched_at" coumns likely would have taken a while.
+
 ## Results
 
-### What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Conclusions about the Outcomes based on Launch Date:
 
 1. When it comes to kickstarter campaings to raise money for theater isues, May appears to be the most successful month to launch a campaign, with the most successful campaigns (111), with only 52 failed campaigns.
 
 2. December appears to be the worst month to launch a campaign to support theater issues, with nearly as many failed (35) campaigns as successful (37) campaigns.
 
-### What can you conclude about the Outcomes based on Goals?
+### Conclusion about the Outcomes based on Goals?
 
-1. For campaign goals <$35,000, there appears to be a negative correlation between goal amount and the success rate of a given campaign. For campaigns seeking <$15,000, odds of success were greater than odds of failure. For campaigns seeking ≥$20,000, odds of failure were greater than odds of success. For campaigns seeking between $15,000 and $20,000, odds of success were 50%. For campaigns seeking ≥$35,000, there was no clear pattern of success vs failure.
+For campaign goals <$35,000, there appears to be a negative correlation between goal amount and the success rate of a given campaign. For campaigns seeking <$15,000, odds of success were greater than odds of failure. For campaigns seeking ≥$20,000, odds of failure were greater than odds of success. For campaigns seeking between $15,000 and $20,000, odds of success were 50%. For campaigns seeking ≥$35,000, there was no clear pattern of success vs failure.
 
-### What are some limitations of this dataset?
+### Dataset Limitations:
 
-1. The largest limitation with the dataset is that it doesn't take into account a couple of major factors, which are difficult to apply a value to:
+The largest limitation with the dataset is that it doesn't take into account a couple of major variables, which are difficult to apply a value to:
 
-    a. The quality of the product the kickstarter campaign is supporting.
+    a. The quality of the product the kickstarter campaign is supporting. 
 
-    b. How well the kickstarter campaign was publicized.  
+    b. How well the kickstarter campaign was publicized.
 
-### What are some other possible tables and/or graphs that we could create?
+When these factors are considered, it may become evident that campaign success is less dependent on fundraising goal, launch date, etc.
+
+### Other recommended analyses:
 
 1. A graph showing the success rate of campaigns (i.e. successful campaigns/total campaigns launched) would be very useful. From the currently provided graphs, it is hard to tell whether May had the most successful campaigns due to a higher success rate, or only due to more campaigns being launched.
 
